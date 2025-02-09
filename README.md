@@ -24,15 +24,7 @@
 
 ## 🛠️ Kullanılan Teknolojiler
 - **Unity**: Oyun motoru (Varsayılan sesler dahil)
-- **Java**: Back-end geliştirme
 - **C#**: Unity için oyun içi mekanikler
 
----
 
-## 🚀 Kurulum ve Çalıştırma
-
-1. **Proje Dosyalarını İndir:**
-   ```bash
-   git clone https://github.com/kullaniciadi/45kg-problemi.git
-   cd 45kg-problemi
 
